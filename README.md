@@ -14,5 +14,6 @@ Bge-M3
 Bge-reranker-v2-m3
 
 DeepSeek使用modelscope的模型参数进行下载，Hugging Face国内会断
-#DeepSeek-R1-671B版（有其他需要自行下载即可，记住模型名称即可）
-git clone https://www.modelscope.cn/deepseek-ai/DeepSeek-R1.git
+
+  #DeepSeek-R1-671B版（有其他需要自行下载即可，记住模型名称即可）
+  git clone https://www.modelscope.cn/deepseek-ai/DeepSeek-R1.git
